@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-image: "backgrounds.jpeg";
+    background-image: url(backgrounds.jpeg);
 }
 
 h1 {
